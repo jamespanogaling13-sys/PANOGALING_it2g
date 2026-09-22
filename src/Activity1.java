@@ -1,6 +1,6 @@
 public class Activity1 {
     public void userGreetings() {
-        String fullName = "Maria Clara Santos";
+        String fullName = "James Edel P. Panogaling";
         String program = "BS Information Technology";
         int age = 19;
         char middleInitial = 'C';
